@@ -103,4 +103,7 @@ You can also hold your AA, waiting until your opponent dies to something else so
 
 # 6. Other Information
 **1. E > P**
-You always want to use your E before going into a P because it gives you the attack speed, move speed and stealth.
+You always want to use your E before going into a P because it gives you the Attack Speed, Move Speed and Stealth.
+
+**2. E walls on Tower attack**
+When you go to attack a tower in one of the lanes, you always want to E the walls instead of the actual Tower incase you have to run or chase an enemy.
