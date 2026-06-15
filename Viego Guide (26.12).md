@@ -24,7 +24,7 @@ Once you're done farming, look for skirmishes with your team and avoid taking 1v
 **Look to follow up your team's engage**
 For team fights your main job is to be the follow up engage.
 
-**Be patient until **ULT**: generally don't be first engage**
+**Be patient until R: generally don't be first engage**
 You need to be very patient until you find the angle for your first reset, and only then you should start looking to dive the enemy team.
 
 # 2. Basic Combos (All of which can be paired with flash)
@@ -35,7 +35,7 @@ You can extend the combo with your R or skip the first auto for a fast kill.
 
 **2. W(Tap) > R**
 This is your best long range engage helping you execute low health enemies and securing a reset.
-You can further extend this range by flashing before you tap w.
+You can further extend this range by flashing before you tap W.
 
 **3. W > AA > Q > R**
 This is your one-shot combo allowing you to burst down enemies with no counterplay.
@@ -78,7 +78,7 @@ This combo extends your Q ranger without delay. Follow it with an AA to secure a
 
 # 5. Technology
 **1. R Buffer**
-Viego can buffer CC with his ult as it makes him displacement immune. This is most useful against airbornes which are completely ignored.
+Viego can buffer CC with his R as it makes him displacement immune. This is most useful against airbornes which are completely ignored.
 
 **2. Cooldown P**
 When you take a soul the cooldown of your original abilites run in the background. By waiting long enough for them to come back, you can use them immediately upon exiting your passive.
